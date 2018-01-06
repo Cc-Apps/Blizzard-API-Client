@@ -1,0 +1,1 @@
+require "blizzard_api_client"
